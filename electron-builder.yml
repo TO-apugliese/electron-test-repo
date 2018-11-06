@@ -1,0 +1,4 @@
+appId: de.dirs21.live
+publish:
+    provider: github
+    token: d8c6d203d1de15ff530932c1c8c5b809070b650b
